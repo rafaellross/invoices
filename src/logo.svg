@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="workspace"
+   style="text-rendering:geometricPrecision"
+   version="1.1"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.3 (3ce5693, 2018-03-11)"
+   width="990.4035"
+   height="335.82455">
+  <metadata
+     id="metadata4733">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1299"
+     inkscape:window-height="713"
+     id="namedview4731"
+     showgrid="false"
+     inkscape:zoom="0.57"
+     inkscape:cx="222.35806"
+     inkscape:cy="358.38596"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="workspace"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <desc
+     id="desc4357">Created with Snap</desc>
+  <defs
+     id="defs4429">
+    <linearGradient
+       x1="0"
+       y1="88.385002"
+       x2="176.77"
+       y2="88.385002"
+       id="linearGradientSjhx3fc775s"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#6d6e71"
+         id="stop4359" />
+      <stop
+         offset="100%"
+         stop-color="#6d6e71"
+         id="stop4361" />
+    </linearGradient>
+    <linearGradient
+       x1="18.648443"
+       y1="7.6413903"
+       x2="24.697479"
+       y2="7.6413903"
+       id="linearGradientSjhx3fc7761"
+       gradientTransform="scale(0.90758246,1.1018283)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#ffffff"
+         id="stop4364" />
+      <stop
+         offset="100%"
+         stop-color="#ffffff"
+         id="stop4366" />
+    </linearGradient>
+    <linearGradient
+       x1="3.805059"
+       y1="19.469654"
+       x2="6.9800496"
+       y2="19.469654"
+       id="linearGradientSjhx3fc7764"
+       gradientTransform="scale(2.3124477,0.43244221)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#ffffff"
+         id="stop4369" />
+      <stop
+         offset="100%"
+         stop-color="#ffffff"
+         id="stop4371" />
+    </linearGradient>
+    <linearGradient
+       x1="70.815575"
+       y1="34.083462"
+       x2="79.931046"
+       y2="34.083462"
+       id="linearGradientSjhx3fc776d"
+       gradientTransform="scale(1.0108087,0.98930684)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#ffffff"
+         id="stop4374" />
+      <stop
+         offset="100%"
+         stop-color="#ffffff"
+         id="stop4376" />
+    </linearGradient>
+    <linearGradient
+       x1="121.38762"
+       y1="46.481731"
+       x2="129.23044"
+       y2="46.481731"
+       id="linearGradientSjhx3fc776g"
+       gradientTransform="scale(0.77149549,1.2961838)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#ffffff"
+         id="stop4379" />
+      <stop
+         offset="100%"
+         stop-color="#ffffff"
+         id="stop4381" />
+    </linearGradient>
+    <linearGradient
+       x1="97.483765"
+       y1="68.708611"
+       x2="116.47703"
+       y2="68.708611"
+       id="linearGradientSjhx3fc776m"
+       gradientTransform="scale(0.80439038,1.2431775)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#ffffff"
+         id="stop4384" />
+      <stop
+         offset="100%"
+         stop-color="#ffffff"
+         id="stop4386" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="23.611"
+       x2="47.222"
+       y2="23.611"
+       id="linearGradientSjhx3fc776p"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#ffffff"
+         id="stop4389" />
+      <stop
+         offset="100%"
+         stop-color="#ffffff"
+         id="stop4391" />
+    </linearGradient>
+    <linearGradient
+       x1="52.77644"
+       y1="43.056458"
+       x2="99.99894"
+       y2="43.056458"
+       id="linearGradientSjhx3fc776s"
+       gradientTransform="scale(1.0000106,0.99998941)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#ffffff"
+         id="stop4394" />
+      <stop
+         offset="100%"
+         stop-color="#ffffff"
+         id="stop4396" />
+    </linearGradient>
+    <linearGradient
+       x1="50.456749"
+       y1="9.1110001"
+       x2="68.678749"
+       y2="9.1110001"
+       id="linearGradientSjhx3fc7787"
+       gradientTransform="scale(0.6454835,1.5492263)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#ffffff"
+         id="stop4399" />
+      <stop
+         offset="100%"
+         stop-color="#ffffff"
+         id="stop4401" />
+    </linearGradient>
+    <linearGradient
+       x1="26.061415"
+       y1="7.4952025"
+       x2="35.310246"
+       y2="7.4952025"
+       id="linearGradientSjhx3fc778d"
+       gradientTransform="scale(0.89016658,1.1233852)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#ffffff"
+         id="stop4404" />
+      <stop
+         offset="100%"
+         stop-color="#ffffff"
+         id="stop4406" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="50.013039"
+       x2="100.02608"
+       y2="50.013039"
+       id="linearGradientSjhx3fc778t"
+       gradientTransform="scale(0.99976087,1.0002392)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#e78200"
+         id="stop4409" />
+      <stop
+         offset="100%"
+         stop-color="#e78200"
+         id="stop4411" />
+    </linearGradient>
+    <linearGradient
+       x1="45.856308"
+       y1="27.360546"
+       x2="100.5774"
+       y2="27.360546"
+       id="linearGradientSjhx3fc778w"
+       gradientTransform="scale(0.99425796,1.0057752)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#ffffff"
+         id="stop4414" />
+      <stop
+         offset="100%"
+         stop-color="#ffffff"
+         id="stop4416" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="88.385002"
+       x2="176.77"
+       y2="88.385002"
+       id="linearGradientSjhx3fc778z"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#6d6e71"
+         id="stop4419" />
+      <stop
+         offset="100%"
+         stop-color="#6d6e71"
+         id="stop4421" />
+    </linearGradient>
+    <linearGradient
+       x1="-132.06091"
+       y1="187.96455"
+       x2="133.83807"
+       y2="187.96455"
+       id="linearGradientSjhx3fc7792"
+       gradientTransform="scale(2.7475335,0.3639628)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#e78200"
+         id="stop4424" />
+      <stop
+         offset="100%"
+         stop-color="#e78200"
+         id="stop4426" />
+    </linearGradient>
+  </defs>
+  <g
+     class="background-part"
+     id="g4433"
+     transform="scale(0.96249126,0.66368491)">
+    <rect
+       x="0"
+       y="0"
+       width="1029"
+       height="506"
+       fill="rgba(255,255,255,0.25)"
+       id="rect4431" />
+  </g>
+  <g
+     class="selector-part"
+     id="g4435"
+     transform="translate(0,-80.70175)" />
+  <rect
+     x="0"
+     y="-80.701752"
+     width="0"
+     height="0"
+     fill="rgba(168,202,236,0.5)"
+     style="stroke:#3399ff;stroke-width:1"
+     id="rect4441" />
+  <g
+     transform="matrix(1.0205,0,0,1.0205,200.5823,9.39085)"
+     style="opacity:1"
+     class="svg-clip svg-visible"
+     id="g4461">
+    <rect
+       x="0"
+       y="0"
+       width="187"
+       height="186"
+       style="fill:none"
+       class="svg-hitbox"
+       id="rect4447" />
+    <svg
+       width="187.03372"
+       height="186.77"
+       viewBox="-5.1318609 -5 187.03372 186.77"
+       class="thumb"
+       version="1.1"
+       id="svg4459">
+      <desc
+         id="desc4449">Created with Snap</desc>
+      <defs
+         id="defs4451" />
+      <g
+         id="g4453" />
+      <g
+         id="g4457">
+        <circle
+           cx="88.385002"
+           cy="88.385002"
+           r="88.385002"
+           id="circle4455"
+           style="fill:url(#linearGradientSjhx3fc775s)" />
+      </g>
+    </svg>
+  </g>
+  <g
+     transform="matrix(1.7656,0,0,1.7656,383.8915,6.18975)"
+     style="opacity:1"
+     class="svg-clip svg-visible"
+     id="g4477">
+    <rect
+       x="0"
+       y="0"
+       width="110"
+       height="110"
+       style="fill:none"
+       class="svg-hitbox"
+       id="rect4463" />
+    <svg
+       width="110.00216"
+       height="110.05"
+       viewBox="-5 -5 110.00216 110.05"
+       version="1.1"
+       id="svg4475">
+      <desc
+         id="desc4465">Created with Snap</desc>
+      <defs
+         id="defs4467" />
+      <g
+         id="g4469" />
+      <g
+         id="g4473">
+        <path
+           d="m 47.112,0 c 1.942,0 3.884,0 5.827,0 17.285,1.525 28.471,9.152 36.79,19.644 -1.83,2.685 -4.465,4.798 -6.825,7.158 -7.036,7.036 -14.108,14.628 -21.642,21.309 -1.349,-0.628 -2.68,-1.174 -4.161,-1.332 -12.65,-1.347 -20.824,9.501 -17.147,21.641 3.343,-2.816 6.979,-6.783 10.322,-10.154 3.371,2.954 6.534,6.118 9.489,9.488 -3.455,3.315 -6.84,6.7 -10.155,10.155 13.345,3.815 24.559,-7.287 20.31,-20.643 8.504,-8.92 17.66,-18.076 26.303,-26.303 3.27,7.371 4.538,17.215 3.33,26.137 -1.15,8.483 -4.758,16.215 -8.657,21.641 -8.435,11.738 -20.858,20.151 -39.287,21.309 -1.055,0 -2.109,0 -3.163,0 C 33.871,99.181 22.815,93.563 14.985,85.733 7.142,77.893 1.102,67.298 0,52.938 0,50.995 0,49.053 0,47.111 0.867,33.747 7.118,21.855 14.649,14.482 22.674,6.628 33.36,1.112 47.112,0 Z"
+           id="path4471"
+           style="clip-rule:evenodd;fill:url(#linearGradientSjhx3fc778t);fill-rule:evenodd"
+           inkscape:connector-curvature="0" />
+      </g>
+    </svg>
+  </g>
+  <g
+     transform="matrix(1.0205,0,0,1.0205,571.5823,5.39085)"
+     style="opacity:1"
+     class="svg-clip svg-visible"
+     id="g4493">
+    <rect
+       x="0"
+       y="0"
+       width="187"
+       height="186"
+       style="fill:none"
+       class="svg-hitbox"
+       id="rect4479" />
+    <svg
+       width="187.03372"
+       height="186.77"
+       viewBox="-5.1318609 -5 187.03372 186.77"
+       class="thumb"
+       version="1.1"
+       id="svg4491">
+      <desc
+         id="desc4481">Created with Snap</desc>
+      <defs
+         id="defs4483" />
+      <g
+         id="g4485" />
+      <g
+         id="g4489">
+        <circle
+           cx="88.385002"
+           cy="88.385002"
+           r="88.385002"
+           id="circle4487"
+           style="fill:url(#linearGradientSjhx3fc778z)" />
+      </g>
+    </svg>
+  </g>
+  <g
+     transform="matrix(1.8796,0,0,1.8796,585.9028,58.26125)"
+     style="opacity:1"
+     class="svg-clip svg-visible"
+     id="g4509">
+    <rect
+       x="0"
+       y="0"
+       width="15"
+       height="16"
+       style="fill:none"
+       class="svg-hitbox"
+       id="rect4495" />
+    <svg
+       width="15.49"
+       height="16.665001"
+       viewBox="11.925 0.087 15.49 16.665"
+       version="1.1"
+       id="svg4507">
+      <desc
+         id="desc4497">Created with Snap</desc>
+      <defs
+         id="defs4499" />
+      <g
+         id="g4501" />
+      <g
+         id="g4505">
+        <polygon
+           points="22.415,5.087 16.925,5.812 16.925,8.419 16.925,11.028 22.415,11.752 22.415,8.419 "
+           id="polygon4503"
+           style="fill:url(#linearGradientSjhx3fc7761)" />
+      </g>
+    </svg>
+  </g>
+  <g
+     transform="matrix(1.8796,0,0,1.8796,571.0231,62.96025)"
+     style="opacity:1"
+     class="svg-clip svg-visible"
+     id="g4525">
+    <rect
+       x="0"
+       y="0"
+       width="17"
+       height="11"
+       style="fill:none"
+       class="svg-hitbox"
+       id="rect4511" />
+    <svg
+       width="17.341999"
+       height="11.373"
+       viewBox="3.799 2.733 17.342 11.373"
+       version="1.1"
+       id="svg4523">
+      <desc
+         id="desc4513">Created with Snap</desc>
+      <defs
+         id="defs4515" />
+      <g
+         id="g4517" />
+      <g
+         id="g4521">
+        <polygon
+           points="8.799,9.106 16.141,9.106 16.141,7.733 9.61,7.733 "
+           id="polygon4519"
+           style="fill:url(#linearGradientSjhx3fc7764)" />
+      </g>
+    </svg>
+  </g>
+  <g
+     transform="matrix(1.8796,0,0,1.8796,598.0833,54.50195)"
+     style="opacity:1"
+     class="svg-clip svg-visible"
+     id="g4541">
+    <rect
+       x="0"
+       y="0"
+       width="18"
+       height="20"
+       style="fill:none"
+       class="svg-hitbox"
+       id="rect4527" />
+    <svg
+       width="18.233"
+       height="20.389999"
+       viewBox="18.199 -1.775 18.233 20.39"
+       version="1.1"
+       id="svg4539">
+      <desc
+         id="desc4529">Created with Snap</desc>
+      <defs
+         id="defs4531" />
+      <g
+         id="g4533" />
+      <g
+         id="g4537">
+        <path
+           d="m 23.199,3.225 v 10.39 h 8.233 V 3.225 Z m 4.353,8.107 c -0.91,0 -1.647,-0.737 -1.647,-1.646 0,-0.91 0.737,-1.647 1.647,-1.647 0.909,0 1.646,0.737 1.646,1.647 0.001,0.908 -0.737,1.646 -1.646,1.646 z"
+           id="path4535"
+           style="fill:url(#linearGradientSjhx3fc778d)"
+           inkscape:connector-curvature="0" />
+      </g>
+    </svg>
+  </g>
+  <g
+     transform="matrix(1.8796,0,0,1.8796,616.2639,48.58525)"
+     style="opacity:1"
+     class="svg-clip svg-visible"
+     id="g4557">
+    <rect
+       x="0"
+       y="0"
+       width="21"
+       height="38"
+       style="fill:none"
+       class="svg-hitbox"
+       id="rect4543" />
+    <svg
+       width="21.761999"
+       height="38.23"
+       viewBox="27.569 -5 21.762 38.23"
+       version="1.1"
+       id="svg4555">
+      <desc
+         id="desc4545">Created with Snap</desc>
+      <defs
+         id="defs4547" />
+      <g
+         id="g4549" />
+      <g
+         id="g4553">
+        <path
+           d="m 36.641,0 c -2.249,0 -4.072,1.58 -4.072,3.529 v 8.821 c 0,1.949 1.823,3.529 4.072,3.529 h 1.648 l 3.297,10.586 c 0,0 0.196,1.373 2.745,1.765 V 15.879 13.526 0 Z"
+           id="path4551"
+           style="fill:url(#linearGradientSjhx3fc7787)"
+           inkscape:connector-curvature="0" />
+      </g>
+    </svg>
+  </g>
+  <g
+     transform="matrix(1.8796,0,0,1.8796,689.1435,102.44175)"
+     style="opacity:1"
+     class="svg-clip svg-visible"
+     id="g4573">
+    <rect
+       x="0"
+       y="0"
+       width="19"
+       height="19"
+       style="fill:none"
+       class="svg-hitbox"
+       id="rect4559" />
+    <svg
+       width="19.214001"
+       height="19.018"
+       viewBox="66.581 24.21 19.214 19.018"
+       version="1.1"
+       id="svg4571">
+      <desc
+         id="desc4561">Created with Snap</desc>
+      <defs
+         id="defs4563" />
+      <g
+         id="g4565" />
+      <g
+         id="g4569">
+        <path
+           d="m 71.581,29.21 c 0,0 6.273,0.196 7.646,3.137 l 1.568,4.705 -4.116,1.176 -1.177,-4.705 c -10e-4,0 -1.765,-4.117 -3.921,-4.313 z"
+           id="path4567"
+           style="fill:url(#linearGradientSjhx3fc776d)"
+           inkscape:connector-curvature="0" />
+      </g>
+    </svg>
+  </g>
+  <g
+     transform="matrix(1.8796,0,0,1.8796,729.963,152.50195)"
+     style="opacity:1"
+     class="svg-clip svg-visible"
+     id="g4589">
+    <rect
+       x="0"
+       y="0"
+       width="16"
+       height="20"
+       style="fill:none"
+       class="svg-hitbox"
+       id="rect4575" />
+    <svg
+       width="16.050705"
+       height="20.165743"
+       viewBox="88.65 50.166 16.050704 20.165743"
+       version="1.1"
+       id="svg4587">
+      <desc
+         id="desc4577">Created with Snap</desc>
+      <defs
+         id="defs4579" />
+      <g
+         id="g4581" />
+      <g
+         id="g4585">
+        <path
+           d="m 99.676,63.47 v 0 L 97.65,55.166 v 0 c 0.097,0.396 -0.721,0.936 -1.825,1.205 -1.104,0.269 -2.077,0.167 -2.175,-0.229 l 2.027,8.303 c 0.173,0.71 1.208,1.066 2.313,0.797 1.105,-0.269 1.859,-1.062 1.686,-1.772 z"
+           id="path4583"
+           style="fill:url(#linearGradientSjhx3fc776g)"
+           inkscape:connector-curvature="0" />
+      </g>
+    </svg>
+  </g>
+  <g
+     transform="matrix(1.8796,0,0,1.8796,640.8518,48.21025)"
+     style="opacity:1"
+     class="svg-clip svg-visible"
+     id="g4605">
+    <rect
+       x="0"
+       y="0"
+       width="64"
+       height="65"
+       style="fill:none"
+       class="svg-hitbox"
+       id="rect4591" />
+    <svg
+       width="64.406883"
+       height="65.037117"
+       viewBox="40.593 -5 64.406884 65.037119"
+       version="1.1"
+       id="svg4603">
+      <desc
+         id="desc4593">Created with Snap</desc>
+      <defs
+         id="defs4595" />
+      <g
+         id="g4597" />
+      <g
+         id="g4601">
+        <path
+           d="M 96.478,30.495 92.361,18.69 c 0,0 1.336,-18.216 -16.553,-18.679 V 0 H 45.593 V 28.622 H 73.74 c 2.934,0.501 5.573,1.507 6.466,3.447 L 86.48,53.12 c 0,0 3.136,3.147 9.802,1.377 0,0 8.233,-1.77 0.196,-24.002 z M 50.271,16.664 H 48.404 V 3.725 h 1.867 z m 35.392,8.548 c -0.909,0 -1.646,-0.737 -1.646,-1.647 0,-0.91 0.737,-1.646 1.646,-1.646 0.91,0 1.647,0.737 1.647,1.646 0,0.909 -0.737,1.647 -1.647,1.647 z m 7.528,23.763 c -0.909,0 -1.646,-0.737 -1.646,-1.647 0,-0.909 0.737,-1.646 1.646,-1.646 0.91,0 1.647,0.737 1.647,1.646 0,0.909 -0.737,1.647 -1.647,1.647 z"
+           id="path4599"
+           style="fill:url(#linearGradientSjhx3fc778w)"
+           inkscape:connector-curvature="0" />
+      </g>
+    </svg>
+  </g>
+  <g
+     transform="matrix(1.3137,0,0,1.304,327.5791,135.78295)"
+     style="opacity:1"
+     class="svg-clip svg-visible"
+     id="g4621">
+    <rect
+       x="0"
+       y="0"
+       width="25"
+       height="33"
+       style="fill:none"
+       class="svg-hitbox"
+       id="rect4607" />
+    <svg
+       width="25.278"
+       height="33.612"
+       viewBox="73.415 68.611 25.278 33.612"
+       version="1.1"
+       id="svg4619">
+      <desc
+         id="desc4609">Created with Snap</desc>
+      <defs
+         id="defs4611" />
+      <g
+         id="g4613" />
+      <g
+         id="g4617">
+        <path
+           d="m 93.693,89.603 c 0,-4.21 -7.582,-15.992 -7.582,-15.992 0,0 -7.696,11.782 -7.696,15.992 0,4.207 3.421,7.62 7.639,7.62 4.218,0 7.639,-3.413 7.639,-7.62 z"
+           id="path4615"
+           style="fill:url(#linearGradientSjhx3fc776m)"
+           inkscape:connector-curvature="0" />
+      </g>
+    </svg>
+  </g>
+  <g
+     transform="matrix(1.3137,0,0,1.304,223.5604,39.13535)"
+     style="opacity:1"
+     class="svg-clip svg-visible"
+     id="g4637">
+    <rect
+       x="0"
+       y="0"
+       width="57"
+       height="57"
+       style="fill:none"
+       class="svg-hitbox"
+       id="rect4623" />
+    <svg
+       width="57.222"
+       height="57.222"
+       viewBox="-5 -5 57.222 57.222"
+       version="1.1"
+       id="svg4635">
+      <desc
+         id="desc4625">Created with Snap</desc>
+      <defs
+         id="defs4627" />
+      <g
+         id="g4629" />
+      <g
+         id="g4633">
+        <path
+           d="M 38.889,23.611 H 23.611 V 8.333 h 4.167 V 0 H 0 v 8.333 h 4.167 v 23.611 c 0,6.137 4.975,11.111 11.111,11.111 h 23.611 v 4.167 h 8.333 V 19.445 h -8.333 z"
+           id="path4631"
+           style="fill:url(#linearGradientSjhx3fc776p)"
+           inkscape:connector-curvature="0" />
+      </g>
+    </svg>
+  </g>
+  <g
+     transform="matrix(1.3137,0,0,1.304,293.5604,65.13535)"
+     style="opacity:1"
+     class="svg-clip svg-visible"
+     id="g4653">
+    <rect
+       x="0"
+       y="0"
+       width="57"
+       height="57"
+       style="fill:none"
+       class="svg-hitbox"
+       id="rect4639" />
+    <svg
+       width="57.223"
+       height="57.222"
+       viewBox="47.777 14.445 57.223 57.222"
+       version="1.1"
+       id="svg4651">
+      <desc
+         id="desc4641">Created with Snap</desc>
+      <defs
+         id="defs4643" />
+      <g
+         id="g4645" />
+      <g
+         id="g4649">
+        <path
+           d="M 95.833,58.334 V 34.723 c 0,-6.136 -4.974,-11.111 -11.11,-11.111 H 61.111 v -4.167 h -8.334 v 27.778 h 8.334 v -4.167 h 15.277 v 15.278 h -4.166 v 8.333 H 100 v -8.333 z"
+           id="path4647"
+           style="fill:url(#linearGradientSjhx3fc776s)"
+           inkscape:connector-curvature="0" />
+      </g>
+    </svg>
+  </g>
+  <g
+     transform="matrix(1.3241,0,0,1.3241,494,171.29825)"
+     style="opacity:1"
+     class="svg-text svg-visible"
+     id="g4661">
+    <path
+       d="M -346.47656,71 C -20,70 20,70 346.47656,71"
+       style="fill:none"
+       id="path4655"
+       inkscape:connector-curvature="0" />
+    <text
+       x="0"
+       y="0"
+       xml:space="preserve"
+       style="font-size:100px;font-family:Audiowide;text-anchor:middle;fill:url(#linearGradientSjhx3fc7792)"
+       dy="96"
+       id="text4657">Plumbing Tools</text>
+    <rect
+       x="0"
+       y="0"
+       width="0"
+       height="0"
+       id="rect4659" />
+  </g>
+  <g
+     id="g4665"
+     transform="translate(0,-80.70175)">
+    <rect
+       x="0"
+       y="0"
+       width="0"
+       height="0"
+       fill="rgba(255,136,0,0.1)"
+       style="stroke:#ff8800;stroke-width:1"
+       id="rect4663" />
+  </g>
+</svg>
