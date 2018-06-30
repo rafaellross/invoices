@@ -9,6 +9,9 @@ import TableBody from "@material-ui/core/TableBody";
 import TableCell from "@material-ui/core/TableCell";
 // core components
 import tableStyle from "assets/jss/material-dashboard-react/components/tableStyle";
+import NumberFormat from 'react-number-format';
+
+import Moment from 'react-moment';
 
 function CustomTable({ ...props }) {
   const { classes, tableHead, tableData, tableHeaderColor } = props;
@@ -42,7 +45,13 @@ function CustomTable({ ...props }) {
                       {prop.name}
                     </TableCell>
                     <TableCell className={classes.tableCell} key={prop.id}>
-                      {prop.price}
+                      <NumberFormat value={prop.price} displayType={'text'} thousandSeparator={true} fixedDecimalScale={true} decimalScale={2} prefix={'$'} />
+                    </TableCell>
+                    <TableCell className={classes.tableCell} key={prop.id}>
+                      <Moment format="DD/MM/YYYY">{prop.created_at}</Moment>
+                    </TableCell>
+                    <TableCell className={classes.tableCell} key={prop.id}>
+                      {'Status'}
                     </TableCell>
 
               </TableRow>

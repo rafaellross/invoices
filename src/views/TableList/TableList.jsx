@@ -10,6 +10,10 @@ import CardHeader from "components/Card/CardHeader.jsx";
 import CardBody from "components/Card/CardBody.jsx";
 import axios from 'axios';
 
+import Button from '@material-ui/core/Button';
+import AddIcon from '@material-ui/icons/Add';
+
+
 const styles = {
   cardCategoryWhite: {
     "&,& a,& a:hover,& a:focus": {
@@ -37,6 +41,11 @@ const styles = {
       fontWeight: "400",
       lineHeight: "1"
     }
+  },
+  addButton : {
+    position: 'fixed',
+    marginLeft: '50px'
+
   }
 };
 
@@ -51,7 +60,7 @@ class TableList extends Component {
 
 
   componentDidMount(){
-    axios.get('http://localhost:8000/items')
+    axios.get('http://192.168.10.121:8000/items')
     .then(response => {
       this.setState({ items: response.data });
     })
@@ -67,27 +76,26 @@ render(){
       <GridItem xs={12} sm={12} md={12}>
         <Card>
           <CardHeader color="primary">
-            <h4 className={styles.cardTitleWhite}>Simple Table</h4>
-            <p className={styles.cardCategoryWhite}>
-              Here is a subtitle for this table
-            </p>
+            <h4 className={styles.cardTitleWhite}>Invoices</h4>
           </CardHeader>
           <CardBody>
 
           {this.state.items !== ''  ? (
             <Table
               tableHeaderColor="primary"
-              tableHead={["#", "Name", "Price"]}
+              tableHead={["#", "Customer", "Total", "Invoice Date", "Status"]}
               tableData={this.state.items}
             />
-
           ) : (
             <div>Loading</div>
           )}
-
-
           </CardBody>
         </Card>
+      </GridItem>
+      <GridItem>
+        <Button variant="fab" color="primary" aria-label="add">
+          <AddIcon />
+        </Button>
       </GridItem>
     </Grid>
   );
